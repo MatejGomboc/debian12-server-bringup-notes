@@ -17,3 +17,7 @@ map to guest = Never
 name resolve order = bcast host
 include = /etc/samba/shares.conf
 ```
+```
+sudo systemctl start smbd
+sudo systemctl status smbd
+```
