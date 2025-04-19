@@ -1,3 +1,5 @@
+# https://www.learnlinux.tv/setting-up-simple-samba-file-shares/
+
 sudo apt install wsdd
 
 sudo apt install samba
