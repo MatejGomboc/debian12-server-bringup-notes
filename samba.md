@@ -28,5 +28,6 @@ browseable = yes
 ```
 ```
 sudo systemctl start smbd
+sudo smbpasswd -a admin-user
 sudo systemctl status smbd
 ```
